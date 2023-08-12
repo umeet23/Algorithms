@@ -1,0 +1,10 @@
+
+O
+java:S1854"9Remove this useless assignment to local variable "root2".(€ú›á
+@
+java:S1481"*Remove this unused "root2" local variable.(€ú›á
+S
+java:S1854"8Remove this useless assignment to local variable "root".(ŸÌÓ²ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ë’»»
+I
+java:S1121".Extract the assignment out of this expression.(ŸÌÓ²ûÿÿÿÿ

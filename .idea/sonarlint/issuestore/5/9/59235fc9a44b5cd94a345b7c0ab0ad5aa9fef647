@@ -1,0 +1,15 @@
+
+2
+java:S1116
+"Remove this empty statement.(ûçÎ‘
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÞë–
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÞë–8è þ º0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8Ü­Š¡º0
+V
+java:S1994,":Move the update of "count" into this loop's update clause.(¡ç¤58ÇñÇ¡º0
+\
+java:S19943":Move the update of "count" into this loop's update clause.(ÞÉðÒÿÿÿÿÿ8Ð­È¡º0
+W
+java:S1994:":Move the update of "count" into this loop's update clause.(éµí¤8Ó­È¡º0
+W
+java:S1994A":Move the update of "count" into this loop's update clause.(Ï†‰Ø8Ø­È¡º0
